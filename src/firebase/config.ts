@@ -1,10 +1,10 @@
 export const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_ADMIN,
-  databaseURL: process.env.REACT_APP_DATABASE_URL,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
-  measurementId: process.env.REACT_APP_MESUREMENT_ID,
-};
+    apiKey: " AIzaSyBm4Fx-s9T0cL8Gaz6eCy3NNhknpHvPV5s " ,
+    authDomain: " mural-glave.firebaseapp.com " ,
+    databaseURL: " https://mural-glave.firebaseio.com " ,
+    projectId: " mural-glave " ,
+    storageBucket: " mural-glave.appspot.com " ,
+    messagingSenderId: " 274995511438 " ,
+    appId: " 1: 274995511438: web: 9efc219fcc34fc24cb89df " ,
+mediçãoId     : " G-9R2N920C1H "
+}:
